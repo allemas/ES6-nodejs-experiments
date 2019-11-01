@@ -23,7 +23,7 @@ Pour cet expériment : creation d'un ordonancement d'appels API et traitement de
 - Try to use Unary / Tap / one
 - Compose and pipeline concept
 
-# Usefull doc
+# References
 - https://developers.google.com/web/fundamentals/primers/promises
 - https://github.com/request/request-promise
 - https://yatatb.wordpress.com/2016/10/29/nodejs-promise-advanced-tips-part-one/
