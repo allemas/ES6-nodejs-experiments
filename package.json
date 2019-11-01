@@ -1,0 +1,24 @@
+{
+  "name": "es6-node-experiment",
+  "version": "1.0.0",
+  "description": "Collectes de données sur Github Pour cet expériment : creation d'un ordonancement d'appels API et traitement des trames.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allemas/ES6-nodejs-experiments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allemas/ES6-nodejs-experiments/issues"
+  },
+  "homepage": "https://github.com/allemas/ES6-nodejs-experiments#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "querystring": "^0.2.0"
+  }
+}
