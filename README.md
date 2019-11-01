@@ -17,10 +17,10 @@ Pour cet expériment : creation d'un ordonancement d'appels API et traitement de
 - [Scope & Closures - Environment](https://leanpub.com/javascriptallongesix/read#closures) 🚀
 - [Blocks](https://leanpub.com/javascriptallongesix/read#buildingblocks)
 - [Naming function](https://leanpub.com/javascriptallongesix/read#named-function-expressions)
-- Combinators and decorators /  Building blocks
 - [Unary / Tap / one](https://leanpub.com/javascriptallongesix/read#leanpub-auto-unary)
 - [Maps / filters / reducing](https://code.tutsplus.com/tutorials/how-to-use-map-filter-reduce-in-javascript--cms-26209)
-- API Github / Oauth
+- [API Github / Oauth](https://developer.github.com/v3/)
+- Combinators and decorators
 - Promises
 - Async / Await
 - Compose and pipeline concept
